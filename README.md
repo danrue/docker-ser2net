@@ -2,6 +2,10 @@
 
 Docker container to run ser2net.
 
+Git repo: https://github.com/danrue/docker-ser2net
+
+Docker repo: https://hub.docker.com/r/danrue/ser2net
+
 ## Usage
 
 This container runs ser2net in the foreground and uses the config file located
